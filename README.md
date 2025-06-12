@@ -1,6 +1,6 @@
 **Project Introduction** 
 
-In this notebook, the main goal is to use Spark SQL & PySpark for big data analysis. 
+In this notebook, the main goal is to use **Spark SQL & PySpark** for big data analysis. 
 
 Data used is open-source SF crime data from the following link: \
 (https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry).
